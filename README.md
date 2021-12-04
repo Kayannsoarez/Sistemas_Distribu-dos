@@ -1,2 +1,2 @@
-# Sistemas_Distribu-dos
+# Sistemas_Distribuidos
 Trabalhos de Sistemas Distribuídos
